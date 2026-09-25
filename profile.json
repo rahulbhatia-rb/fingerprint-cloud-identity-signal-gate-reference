@@ -1,0 +1,1 @@
+{"policy":{"min_identity_confidence":0.9,"max_signal_age_ms":100,"max_fraud_error_rate":0.01},"signals":{"identity_confidence":0.99,"signal_age_ms":20,"fraud_error_rate":0.001,"replicas_healthy":true}}
